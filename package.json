@@ -1,0 +1,17 @@
+
+{
+"name": "ufa1912",
+"theme": "ufa1912",
+"version": "8.6.3",
+"description": "ufa1912 ทางเข้าหลักเว็บแทงบอลเว็บตรง สมาชิกเยอะ ให้เงินเครดิตฟรี",
+"keywords": [
+"ufa1912",
+"ufa1912 เครดิตฟรี",
+"ufa1912 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/ufa1912",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
